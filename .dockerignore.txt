@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+tests/
+models/
+data/*.joblib
+.git/
+.gitignore
+.venv/
+venv/
+*.md
